@@ -1,1 +1,1029 @@
-Remove this text and paste your JSON results from the Directions API
+{
+   "geocoded_waypoints" : 
+   [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJ-ZiXS9M0K4gR58bNfEy2G1U",
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EhxNSjM0K0NYLCBUb3JvbnRvLCBPTiwgQ2FuYWRhIiY6JAoKDUkBBRoVB6it0BAKGhQKEgmlO8bXkMvUiRF3xLQqUFU1Mg",
+         "types" : 
+         [
+            "street_address"
+         ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJE-Xa87o0K4gRkvXFHuE0hMk",
+         "types" : 
+         [
+            "establishment",
+            "museum",
+            "point_of_interest",
+            "tourist_attraction"
+         ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ3flrK2IzK4gRsoLymGpVn1g",
+         "types" : 
+         [
+            "neighborhood",
+            "political"
+         ]
+      }
+   ],
+   "routes" : 
+   [
+      {
+         "bounds" : 
+         {
+            "northeast" : 
+            {
+               "lat" : 43.6844723,
+               "lng" : -79.37956899999999
+            },
+            "southwest" : 
+            {
+               "lat" : 43.6453511,
+               "lng" : -79.41097289999999
+            }
+         },
+         "copyrights" : "Map data ©2024 Google",
+         "legs" : 
+         [
+            {
+               "distance" : 
+               {
+                  "text" : "1.2 mi",
+                  "value" : 1925
+               },
+               "duration" : 
+               {
+                  "text" : "27 mins",
+                  "value" : 1634
+               },
+               "end_address" : "MJ34+CX, Toronto, ON, Canada",
+               "end_location" : 
+               {
+                  "lat" : 43.6539661,
+                  "lng" : -79.39272369999999
+               },
+               "start_address" : "Union Station, Toronto, ON M5J, Canada",
+               "start_location" : 
+               {
+                  "lat" : 43.6453511,
+                  "lng" : -79.3805843
+               },
+               "steps" : 
+               [
+                  {
+                     "distance" : 
+                     {
+                        "text" : "276 ft",
+                        "value" : 84
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 43.6455451,
+                        "lng" : -79.37956899999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eThe PATH - Union-VIA-GO\u003c/b\u003e toward \u003cb\u003eThe PATH - Union Station\u003c/b\u003e",
+                     "polyline" : 
+                     {
+                        "points" : "mnkiGr_ocNAICUEYGo@S_B"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 43.6453511,
+                        "lng" : -79.3805843
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "79 ft",
+                        "value" : 24
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 43.64574,
+                        "lng" : -79.37968549999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eThe PATH - Union Station\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : 
+                     {
+                        "points" : "uokiGhyncNQJSJ"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 43.6455451,
+                        "lng" : -79.37956899999999
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "128 ft",
+                        "value" : 39
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 43.6460641,
+                        "lng" : -79.37987489999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eThe PATH - South Tower\u003c/b\u003e",
+                     "polyline" : 
+                     {
+                        "points" : "{pkiG`zncNa@R]N"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 43.64574,
+                        "lng" : -79.37968549999999
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "305 ft",
+                        "value" : 93
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 73
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 43.6468326,
+                        "lng" : -79.38032559999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eThe PATH - Royal Bank Plaza\u003c/b\u003e",
+                     "polyline" : 
+                     {
+                        "points" : "{rkiGd{ncNcAf@_@Pu@`@"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 43.6460641,
+                        "lng" : -79.37987489999999
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "305 ft",
+                        "value" : 93
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 73
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 43.6470559,
+                        "lng" : -79.38143909999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eThe PATH - North Tower\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : 
+                     {
+                        "points" : "uwkiG`~ncNOlAE^WnB"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 43.6468326,
+                        "lng" : -79.38032559999999
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "259 ft",
+                        "value" : 79
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 63
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 43.64755539999999,
+                        "lng" : -79.38199709999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eThe PATH - Toronto-Dominion Bank Tower\u003c/b\u003e",
+                     "polyline" : 
+                     {
+                        "points" : "cykiG~docNIz@ABA@CBGBEBa@Pa@N"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 43.6470559,
+                        "lng" : -79.38143909999999
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "243 ft",
+                        "value" : 74
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 59
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 43.6475718,
+                        "lng" : -79.3827842
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eThe PATH - Royal Trust\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : 
+                     {
+                        "points" : "g|kiGnhocNSHA??@A@?@?@?BDd@N~A"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 43.64755539999999,
+                        "lng" : -79.38199709999999
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "95 ft",
+                        "value" : 29
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 43.6478182,
+                        "lng" : -79.3828901
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eThe PATH - Exchange Tower\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : 
+                     {
+                        "points" : "i|kiGjmocNOFIBWH"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 43.6475718,
+                        "lng" : -79.3827842
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "36 ft",
+                        "value" : 11
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 43.6478415,
+                        "lng" : -79.3827599
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eKing St W\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : 
+                     {
+                        "points" : "{}kiG`nocNCY"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 43.6478182,
+                        "lng" : -79.3828901
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "92 ft",
+                        "value" : 28
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 43.6480092,
+                        "lng" : -79.3828346
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eKing St W\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : 
+                     {
+                        "points" : "_~kiGfmocNa@L"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 43.6478415,
+                        "lng" : -79.3827599
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.1 mi",
+                        "value" : 163
+                     },
+                     "duration" : 
+                     {
+                        "text" : "2 mins",
+                        "value" : 133
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 43.6475599,
+                        "lng" : -79.3849361
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eKing St W\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : 
+                     {
+                        "points" : "a_liGtmocNXtBFd@@?VnBHb@Jr@C@@DHr@@BA??@"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 43.6480092,
+                        "lng" : -79.3828346
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.5 mi",
+                        "value" : 852
+                     },
+                     "duration" : 
+                     {
+                        "text" : "13 mins",
+                        "value" : 759
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 43.6547052,
+                        "lng" : -79.38855819999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eUniversity Ave\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : 
+                     {
+                        "points" : "g|kiGzzocN[LCBwAp@IBOJ_@PCBKDWLOHEF]RA?o@b@a@XQLGF]V]VID[R]N?Ao@Ti@P]J?A]J?AQFEBODSFEBKBOFE@SFKDg@Nm@RQFQDYJODgA\\{@X[Lm@P_@L[JGBWHODq@RMF_@Ja@L_@L"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 43.6475599,
+                        "lng" : -79.3849361
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.2 mi",
+                        "value" : 356
+                     },
+                     "duration" : 
+                     {
+                        "text" : "5 mins",
+                        "value" : 297
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 43.6539661,
+                        "lng" : -79.39272369999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eDundas St W\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : 
+                     {
+                        "points" : "}hmiGnqpcN@JFd@Jv@C@@BBT@FFAXdCBRBL@H?DE@?D@T?DGB?@?J?F?D?B?B?D@D@FNdA@F@LBP@N@D?@@?D^p@tF"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 43.6547052,
+                        "lng" : -79.38855819999999
+                     },
+                     "travel_mode" : "WALKING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            },
+            {
+               "distance" : 
+               {
+                  "text" : "1.1 mi",
+                  "value" : 1821
+               },
+               "duration" : 
+               {
+                  "text" : "26 mins",
+                  "value" : 1567
+               },
+               "end_address" : "100 Queens Park, Toronto, ON M5S 2C6, Canada",
+               "end_location" : 
+               {
+                  "lat" : 43.6678966,
+                  "lng" : -79.393901
+               },
+               "start_address" : "MJ34+CX, Toronto, ON, Canada",
+               "start_location" : 
+               {
+                  "lat" : 43.6539661,
+                  "lng" : -79.39272369999999
+               },
+               "steps" : 
+               [
+                  {
+                     "distance" : 
+                     {
+                        "text" : "361 ft",
+                        "value" : 110
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 86
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 43.6542608,
+                        "lng" : -79.3913163
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eDundas St W\u003c/b\u003e toward \u003cb\u003eMcCaul St\u003c/b\u003e",
+                     "polyline" : 
+                     {
+                        "points" : "idmiGnkqcNq@qF?CE_@A??A"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 43.6539661,
+                        "lng" : -79.39272369999999
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.4 mi",
+                        "value" : 569
+                     },
+                     "duration" : 
+                     {
+                        "text" : "8 mins",
+                        "value" : 498
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 43.6592809,
+                        "lng" : -79.3936425
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eMcCaul St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : 
+                     {
+                        "points" : "cfmiGvbqcN]JgA\\SDc@NQH]HEBi@N]JQLAESFC@IBYJa@LOFYHEBYJODMFUFFd@E?KDODKDODQFKDOFGBMDG@MFmA^I?KFUHk@RKB_@LIBE@k@PUFGB@@C?]JC@"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 43.6542608,
+                        "lng" : -79.3913163
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "449 ft",
+                        "value" : 137
+                     },
+                     "duration" : 
+                     {
+                        "text" : "2 mins",
+                        "value" : 117
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 43.6596531,
+                        "lng" : -79.39190529999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCollege St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : 
+                     {
+                        "points" : "oeniGfqqcNCUa@_DIe@AOEWAOCMKw@"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 43.6592809,
+                        "lng" : -79.3936425
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "354 ft",
+                        "value" : 108
+                     },
+                     "duration" : 
+                     {
+                        "text" : "2 mins",
+                        "value" : 93
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 43.6604781,
+                        "lng" : -79.39229329999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : 
+                     {
+                        "points" : "ygniGlfqcNQDgA^GJA?A@ABEBSD[FG@"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 43.6596531,
+                        "lng" : -79.39190529999999
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "236 ft",
+                        "value" : 72
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 62
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 43.6610316,
+                        "lng" : -79.3923128
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eQueens Pk Cres W\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : 
+                     {
+                        "points" : "_mniGxhqcNCMYQGCG?I?CFEBC@C@C@C?A@KBMN"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 43.6604781,
+                        "lng" : -79.39229329999999
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "10 ft",
+                        "value" : 3
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 43.6610285,
+                        "lng" : -79.39234449999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eQueens Pk Cres W\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : 
+                     {
+                        "points" : "mpniG|hqcN?D"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 43.6610316,
+                        "lng" : -79.3923128
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "39 ft",
+                        "value" : 12
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 43.6611075,
+                        "lng" : -79.392438
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eQueens Pk Cres W\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : 
+                     {
+                        "points" : "mpniGbiqcNOR"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 43.6610285,
+                        "lng" : -79.39234449999999
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "135 ft",
+                        "value" : 41
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 43.6613795,
+                        "lng" : -79.3923332
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eQueens Pk Cres W\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : 
+                     {
+                        "points" : "}pniGviqcNMGg@M"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 43.6611075,
+                        "lng" : -79.392438
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.3 mi",
+                        "value" : 531
+                     },
+                     "duration" : 
+                     {
+                        "text" : "8 mins",
+                        "value" : 458
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 43.66594389999999,
+                        "lng" : -79.3932952
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eQueens Pk Cres W\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : 
+                     {
+                        "points" : "srniG`iqcNKDODUHKBGBGBABE@G@MHMLcAr@QFC@QJMFMDg@NSD[JA?a@L[HUFQFe@LSFQDYJWBKDa@FGBC?KDG@ODOFG@IBG@I@?PO@?QMAIAGACAWGWMYQKMIKa@m@GI"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 43.6613795,
+                        "lng" : -79.3923332
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.1 mi",
+                        "value" : 238
+                     },
+                     "duration" : 
+                     {
+                        "text" : "3 mins",
+                        "value" : 207
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 43.6678966,
+                        "lng" : -79.393901
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eQueens Park\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : 
+                     {
+                        "points" : "cooiGboqcNGGGEECIAIA_@NEC[JOFG@o@RMDA@OBUHC@KBKDE@WHYG[JQXMDGBE@"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 43.66594389999999,
+                        "lng" : -79.3932952
+                     },
+                     "travel_mode" : "WALKING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            },
+            {
+               "distance" : 
+               {
+                  "text" : "1.7 mi",
+                  "value" : 2702
+               },
+               "duration" : 
+               {
+                  "text" : "39 mins",
+                  "value" : 2361
+               },
+               "end_address" : "Casa Loma, Toronto, ON, Canada",
+               "end_location" : 
+               {
+                  "lat" : 43.6844723,
+                  "lng" : -79.41097289999999
+               },
+               "start_address" : "100 Queens Park, Toronto, ON M5S 2C6, Canada",
+               "start_location" : 
+               {
+                  "lat" : 43.6678966,
+                  "lng" : -79.393901
+               },
+               "steps" : 
+               [
+                  {
+                     "distance" : 
+                     {
+                        "text" : "299 ft",
+                        "value" : 91
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 75
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 43.6685984,
+                        "lng" : -79.39427739999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eQueens Park\u003c/b\u003e toward \u003cb\u003eBloor St W\u003c/b\u003e",
+                     "polyline" : 
+                     {
+                        "points" : "k{oiGzrqcNE@ODg@PMDk@PEBQDBN"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 43.6678966,
+                        "lng" : -79.393901
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.4 mi",
+                        "value" : 695
+                     },
+                     "duration" : 
+                     {
+                        "text" : "10 mins",
+                        "value" : 592
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 43.6745764,
+                        "lng" : -79.396687
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eAvenue Rd\u003c/b\u003e",
+                     "polyline" : 
+                     {
+                        "points" : "w_piGfuqcN[HAC}Ad@IBSFUFC@]Di@POHMDg@NUHIHg@Pm@RQDIBUJQDIBI?IHMBE@I@MB[N[J?CE@ODEBiA^WFUFUFiAZ_@LOFC@?AMDAE]JGBQDs@TIB?@OF?@gA\\g@N"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 43.6685984,
+                        "lng" : -79.39427739999999
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.4 mi",
+                        "value" : 660
+                     },
+                     "duration" : 
+                     {
+                        "text" : "10 mins",
+                        "value" : 574
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 43.6768233,
+                        "lng" : -79.4029793
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eDavenport Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : 
+                     {
+                        "points" : "ceqiGhdrcNDVBVFj@BRD^Hp@Hl@BZ@DHp@@N@R@R?N?NApAAf@Az@C@g@L?DA`@C^G\\ALCLCFCNELGJUd@GHKV?f@MRy@tAc@LABKPMRKP[h@ABACSZ@JIJ]P]HUHYHYLUFCDOD"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 43.6745764,
+                        "lng" : -79.396687
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "197 ft",
+                        "value" : 60
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 56
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 43.677222,
+                        "lng" : -79.40303349999999
+                     },
+                     "html_instructions" : "\u003cb\u003eDavenport Rd\u003c/b\u003e turns slightly \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003ePoplar Plains Rd\u003c/b\u003e",
+                     "polyline" : 
+                     {
+                        "points" : "csqiGrkscNENECQMIEI@E@C@E@EBGD"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 43.6768233,
+                        "lng" : -79.4029793
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.2 mi",
+                        "value" : 363
+                     },
+                     "duration" : 
+                     {
+                        "text" : "5 mins",
+                        "value" : 308
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 43.6802809,
+                        "lng" : -79.4037785
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eBoulton Dr\u003c/b\u003e",
+                     "polyline" : 
+                     {
+                        "points" : "suqiG|kscNMLA@GFILMLqAbBOLSNEFGB?@OFOHQFSDA?U@G@MCQ?M?[?GAK?GAKACAIAYEYGICSGo@SYIICA?ICQEE@"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 43.677222,
+                        "lng" : -79.40303349999999
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.4 mi",
+                        "value" : 663
+                     },
+                     "duration" : 
+                     {
+                        "text" : "10 mins",
+                        "value" : 599
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 43.6830983,
+                        "lng" : -79.41038569999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : 
+                     {
+                        "points" : "whriGrpscNQ~@GVIZGTK^GV?@EPENCLCLCLALALALAVCLAPAZCd@?JAJAVANCb@CVEXANANCFM`@IPITEJA@CFKVKRIPGNGPENGRGPGPCNCFCDEH?@CFGHGDEFEDSTSRCBKJGFGHGFIFQJYRKHWRGBCBSLGDE@KJCDENGb@?LADAX?PAN?P"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 43.6802809,
+                        "lng" : -79.4037785
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.1 mi",
+                        "value" : 170
+                     },
+                     "duration" : 
+                     {
+                        "text" : "3 mins",
+                        "value" : 157
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 43.6844723,
+                        "lng" : -79.41097289999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eSpadina Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : 
+                     {
+                        "points" : "kzriG|ytcNaBd@ULOFS@E@KDODm@RQFOHC@"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 43.6830983,
+                        "lng" : -79.41038569999999
+                     },
+                     "travel_mode" : "WALKING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : 
+         {
+            "points" : "mnkiGr_ocNSiBS_BQJu@^wDjBw@xGOL}An@CBDl@N~AOFa@LCYa@L`@zCXnBTvAAFJv@a@RqB`Ao@Zg@Vc@ZsA|@uAdAe@X]LwBp@]HWJu@ToDhAeOzEHp@Jv@C@DX@FFA\\xCDV?DE@@Z?DGB?L?T\\pCBFv@tGq@qFGc@]HgA\\gBh@o@R]JQLAESFC@uAd@iA^c@NFd@E?[J[Ju@XqBn@I?KFaA\\{@VgA^a@JC@CUk@eEGg@E]Kw@QDgA^GJC@GFo@LG@CMa@UQ?IJKDE@YR?DORu@U}@XWLUJqA`Au@\\{DfA}Ab@q@Nm@L_@Jq@RQB?PO@?QMAQC[Iq@_@_AqAOMOEIA_@NEC[JWH}@Xk@Pu@TYG[JQXMDMDUFgBl@QDBN[HACgBh@i@Na@Fy@Zu@T_@RqBn@g@PSBWLOBi@R[J?CUFEBmCv@}Br@MBAE]JYH}@XOHgA^g@NDVJbA\\rCPbBBfACxBAz@C@g@L?DA`@C^Q`AI\\]p@S`@?f@MRy@tAc@LMTw@rAACSZ@JIJ]P]Ho@Ro@TSJENEC[SYF]XqBfCq@h@q@Zs@HiACg@Eg@IgBg@o@QWCYvAe@hBOp@Kv@IdAGxAKbBM`Ag@tA}@xB[fAMXY^q@r@c@d@aAp@w@h@MFOPMr@ARClAaBd@ULc@HoA`@e@R"
+         },
+         "summary" : "University Ave",
+         "warnings" : 
+         [
+            "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+         ],
+         "waypoint_order" : 
+         [
+            0,
+            1
+         ]
+      }
+   ],
+   "status" : "OK"
+}Remove this text and paste your JSON results from the Directions API
