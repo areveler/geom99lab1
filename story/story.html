@@ -62,10 +62,12 @@
   const infoWindow = new InfoWindow();
 
   // Create the markers.
+  //add in numbers for each marker in order
   tourStops.forEach(({ position, title }, i) => {
     const pin = new PinElement({
       glyph: `${i + 1}`,
     });
+    // add in pop-up infomation
     const marker = new AdvancedMarkerElement({
       position,
       map,
