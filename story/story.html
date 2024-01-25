@@ -28,9 +28,21 @@
   const { AdvancedMarkerElement, PinElement } = await google.maps.importLibrary(
     "marker",
   );
+// boundary coordinates
+  const Southern_Ontario_bound = {
+	  north: 46.71,
+	  south: 41.94,
+	  west: -84.74,
+	  east: -72.57,
+	};
   const map = new Map(document.getElementById("map"), {
     zoom: 8,
     center: { lat: 44.404, lng: -78.733 },
+    //adding in boundary constraints
+    restriction: {
+		  latLngBounds: Southern_Ontario_bound,
+		  strictBounds: false,
+		},
     mapId: "4504f8b37365c3d0",
   });
   // Set LatLng and title text for the markers. The first marker (Boynton Pass)
