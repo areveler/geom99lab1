@@ -535,7 +535,7 @@
                      "maneuver" : "turn-left",
                      "polyline" : 
                      {
-                        "points" : "cfmiGvbqcN]JgA\\SDc@NQH]HEBi@N]JQLAESFC@IBYJa@LOFYHEBYJODMFUFFd@E?KDODKDODQFKDOFGBMDG@MFmA^I?KFUHk@RKB_@LIBE@k@PUFGB@@C?]JC@"
+                        "points" : "cfmiGvbqcN]JgA\\SDc@NQH]HEBi@N]JQLAESFC@IBYJa@LOFYHEBYJUFHd@IDSFQBA@ODKDODQFKDOFGBMDG@MFmA^I?KFUHk@RKB_@LIBE@k@PUFGB@@C?]JC@"
                      },
                      "start_location" : 
                      {
@@ -1011,7 +1011,7 @@
          ],
          "overview_polyline" : 
          {
-            "points" : "mnkiGr_ocNSiBS_BQJu@^wDjBw@xGOL}An@CBDl@N~AOFa@LCYa@L`@zCXnBTvAAFJv@a@RqB`Ao@Zg@Vc@ZsA|@uAdAe@X]LwBp@]HWJu@ToDhAeOzEHp@Jv@C@DX@FFA\\xCDV?DE@@Z?DGB?L?T\\pCBFv@tGq@qFGc@]HgA\\gBh@o@R]JQLAESFC@uAd@iA^c@NFd@E?[J[Ju@XqBn@I?KFaA\\{@VgA^a@JC@CUk@eEGg@E]Kw@QDgA^GJC@GFo@LG@CMa@UQ?IJKDE@YR?DORu@U}@XWLUJqA`Au@\\{DfA}Ab@q@Nm@L_@Jq@RQB?PO@?QMAQC[Iq@_@_AqAOMOEIA_@NEC[JWH}@Xk@Pu@TYG[JQXMDMDUFgBl@QDBN[HACgBh@i@Na@Fy@Zu@T_@RqBn@g@PSBWLOBi@R[J?CUFEBmCv@}Br@MBAE]JYH}@XOHgA^g@NDVJbA\\rCPbBBfACxBAz@C@g@L?DA`@C^Q`AI\\]p@S`@?f@MRy@tAc@LMTw@rAACSZ@JIJ]P]Ho@Ro@TSJENEC[SYF]XqBfCq@h@q@Zs@HiACg@Eg@IgBg@o@QWCYvAe@hBOp@Kv@IdAGxAKbBM`Ag@tA}@xB[fAMXY^q@r@c@d@aAp@w@h@MFOPMr@ARClAaBd@ULc@HoA`@e@R"
+            "points" : "mnkiGr_ocNSiBS_BQJu@^wDjBw@xGOL}An@CBDl@N~AOFa@LCYa@L`@zCXnBTvAAFJv@a@RqB`Ao@Zg@Vc@ZsA|@uAdAe@X]LwBp@]HWJu@ToDhAeOzEHp@Jv@C@DX@FFA\\xCDV?DE@@Z?DGB?L?T\\pCBFv@tGq@qFGc@]HgA\\gBh@o@R]JQLAESFC@uAd@oA`@Hd@IDe@Jm@Ru@XqBn@I?KFaA\\{@VgA^a@JC@CUk@eEGg@E]Kw@QDgA^GJC@GFo@LG@CMa@UQ?IJKDE@YR?DORu@U}@XWLUJqA`Au@\\{DfA}Ab@q@Nm@L_@Jq@RQB?PO@?QMAQC[Iq@_@_AqAOMOEIA_@NEC[JWH}@Xk@Pu@TYG[JQXMDMDUFgBl@QDBN[HACgBh@i@Na@Fy@Zu@T_@RqBn@g@PSBWLOBi@R[J?CUFEBmCv@}Br@MBAE]JYH}@XOHgA^g@NDVJbA\\rCPbBBfACxBAz@C@g@L?DA`@C^Q`AI\\]p@S`@?f@MRy@tAc@LMTw@rAACSZ@JIJ]P]Ho@Ro@TSJENEC[SYF]XqBfCq@h@q@Zs@HiACg@Eg@IgBg@o@QWCYvAe@hBOp@Kv@IdAGxAKbBM`Ag@tA}@xB[fAMXY^q@r@c@d@aAp@w@h@MFOPMr@ARClAaBd@ULc@HoA`@e@R"
          },
          "summary" : "University Ave",
          "warnings" : 
@@ -1026,4 +1026,4 @@
       }
    ],
    "status" : "OK"
-}Remove this text and paste your JSON results from the Directions API
+}
