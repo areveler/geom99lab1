@@ -9,7 +9,8 @@ Be creative and use multiple parameters from the API documentation to earn a top
 ## Directions URL
 
 ```
-https://YourDirectionsApiURLGoesHere
+https://maps.googleapis.com/maps/api/directions/json?origin=Union+Station+Toronto&destination=Casa+Loma&mode=walking&waypoints=MJ34%2BCX+Toronto%2C+Ontario|Royal+Ontario+Museum&units=imperial&avoid=indoor&departure_time=1706882400&key=AIzaSyCM-WWHYHIKY-do4kquMy9Z4wQaQx51AuE
+
 ```
 
 Copy/paste the JSON results and save them into the empty file ```mydirections.json``` in this repository
